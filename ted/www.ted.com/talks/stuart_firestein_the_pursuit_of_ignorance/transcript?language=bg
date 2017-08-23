@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<!--[if lt IE 8]> <html class="no-js loggedout oldie ie7" lang="en"> <![endif]-->
+<!--[if IE 8]> <html class="no-js loggedout oldie ie8" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--><html class='no-js loggedout' lang='en'><!--<![endif]-->
+<head>
+<script>
+  (function (H){
+  H.className=H.className.replace(/\bno-js\b/,'js');
+  if (('; '+document.cookie).match(/; _ted_user_id=/)) H.className=H.className.replace(/\bloggedout\b/,'loggedin');
+  })(document.documentElement)
+</script><meta charset='utf-8'>
+<title>Стюарт Файърстайн: Преследване на невежеството | TED Talk Subtitles and Transcript | TED</title>
+<meta name="description" content="TED Talk Subtitles and Transcript: Как изглежда научната работа? Както неврологът Стюарт Файърстайн се шегува: тя е много по-малко като научния метод и много повече като &quot;изпускане на газове ...в тъмното.&quot; В тази остроумна реч Файърстайн стига до сърцето на науката, както тя се практикува в действителност и предлага да ценим повече онова, което не знаем или &quot;висококачественото невежество&quot; също толкова, колкото ценим и това, което знаем." />
+<meta name="author" content="Стюарт Файърстайн" />
+<link rel="canonical" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript" />
+<link rel="alternate" hreflang="x-default" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript" />
+<link rel="alternate" hreflang="sq" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=sq" />
+<link rel="alternate" hreflang="ar" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=ar" />
+<link rel="alternate" hreflang="bg" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=bg" />
+<link rel="alternate" hreflang="zh-cn" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=zh-cn" />
+<link rel="alternate" hreflang="zh-tw" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=zh-tw" />
+<link rel="alternate" hreflang="hr" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=hr" />
+<link rel="alternate" hreflang="cs" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=cs" />
+<link rel="alternate" hreflang="da" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=da" />
+<link rel="alternate" hreflang="nl" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=nl" />
+<link rel="alternate" hreflang="en" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=en" />
+<link rel="alternate" hreflang="fr" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=fr" />
+<link rel="alternate" hreflang="de" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=de" />
+<link rel="alternate" hreflang="el" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=el" />
+<link rel="alternate" hreflang="he" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=he" />
+<link rel="alternate" hreflang="hu" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=hu" />
+<link rel="alternate" hreflang="it" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=it" />
+<link rel="alternate" hreflang="ja" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=ja" />
+<link rel="alternate" hreflang="ko" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=ko" />
+<link rel="alternate" hreflang="mk" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=mk" />
+<link rel="alternate" hreflang="fa" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=fa" />
+<link rel="alternate" hreflang="pl" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=pl" />
+<link rel="alternate" hreflang="pt" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=pt" />
+<link rel="alternate" hreflang="pt-br" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=pt-br" />
+<link rel="alternate" hreflang="ro" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=ro" />
+<link rel="alternate" hreflang="sr" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=sr" />
+<link rel="alternate" hreflang="es" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=es" />
+<link rel="alternate" hreflang="th" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=th" />
+<link rel="alternate" hreflang="uk" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=uk" />
+<link rel="alternate" hreflang="vi" href="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript?language=vi" />
+<meta property="og:title" content="Transcript of &quot;Преследване на невежеството&quot;" />
+<meta property="og:image" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e3756431a9232f598715372bb9cdd63fcb008ecb_1600x1200.jpg?c=1050%2C550&amp;play=&amp;w=1050" />
+<meta property="og:image:secure_url" content="https://pi.tedcdn.com/r/pe.tedcdn.com/images/ted/e3756431a9232f598715372bb9cdd63fcb008ecb_1600x1200.jpg?c=1050%2C550&amp;play=&amp;w=1050" />
+<meta property="og:image:width" content="1050" />
+<meta property="og:image:height" content="550" />
+<meta property="og:type" content="article" />
+<meta name="keywords" content="TED, Talks, Themes, Speakers, Technology, Entertainment, Design" />
+<link rel="mask-icon" href="https://pa.tedcdn.com/mask-icon.svg" color="#E62B1E" sizes="any" />
+<meta name="theme-color" content="#E62B1E" />
+<link rel="shortcut icon" href="https://pa.tedcdn.com/favicon.ico" />
+<meta name="HandheldFriendly" content="True" />
+<meta name="MobileOptimized" content="320" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="apple-mobile-web-app-title" content="TED Talks" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="apple-mobile-web-app-status-bar-style" content="black" />
+<link rel="apple-touch-icon" href="https://pa.tedcdn.com/apple-touch-icon.png" />
+<link rel="apple-touch-icon-precomposed" href="https://pa.tedcdn.com/apple-touch-icon-precomposed.png" />
+<meta name="application-name" content="TED Talks" />
+<meta name="msapplication-config" content="https://www.ted.com/browserconfig.xml" />
+<meta name="msapplication-TileColor" content="#000000" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="title" content="Стюарт Файърстайн: Преследване на невежеството" />
+<meta property="og:description" content="TED Talk Subtitles and Transcript: Как изглежда научната работа? Както неврологът Стюарт Файърстайн се шегува: тя е много по-малко като научния метод и много повече като &quot;изпускане на газове ...в тъмното.&quot; В тази остроумна реч Файърстайн стига до сърцето на науката, както тя се практикува в действителност и предлага да ценим повече онова, което не знаем или &quot;висококачественото невежество&quot; също толкова, колкото ценим и това, което знаем." />
+<meta property="og:url" content="https://www.ted.com/talks/stuart_firestein_the_pursuit_of_ignorance/transcript" />
+<meta property="fb:app_id" content="201021956610141" /><!-- (+-CONTENT-IS-LIVE-SUCCESS-+) --><link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/global.css?1502739391">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/shed.css?1502739391">
+<link rel="stylesheet" href="https://pa.tedcdn.com/stylesheets/talk.css?1502739391"><script>
+  if(top != self) top.location.replace(location);
+</script><script>
+  (function(i,r,l,d,o){
+    i.__gaIn=function(){(i[r].q=i[r].q||[]).push(arguments)};
+    i['GoogleAnalyticsObject']=r;i[r]=i[r]||__gaIn,i[r].l=1*new Date();
+    if(l && d!="yes" && d!="1") o.userId=l[1];
+    __ga('create',"UA-40781755-2",'ted.com',o);
+    __ga('set',"dimension3",'logged'+(l ? 'In' : 'Out'));
+  })(window,"__ga",('; '+document.cookie).match(/; _ted_user_id=(\d+);/),(window.navigator && window.navigator.doNotTrack),{});
+</script><script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  
+  googletag.cmd.push(function() {
+    g('tab.onGptExecution');
+  
+    googletag.pubads().enableAsyncRendering();
+    googletag.enableServices();
+  });
+  
+  function gptProxy(data) {
+    g('ads.gptAd', data);
+  }
+</script><script>
+  _q=[];q=function(){_q.push(arguments)};
+  _g=[];g=function(){_g.push(arguments)};
+  
+  TED = {"env":"production","assetBuster":1502739386,"playerPath":"//pb.tedcdn.com/assets/player/flash_hls/player_4_01_002.swf","assetHost":"https://pa.tedcdn.com","authHost":"https://auth.ted.com","settingsUrl":"https://www.ted.com/settings/account","signInUrl":"/session/new","signOutUrl":"https://auth.ted.com/session/logout","signInHelpUrl":"https://auth.ted.com/account/password/new","signUpUrl":"/users/new","csClientId":"7341760","gaDimensions":{"breakpoint":"dimension1","talkId":"dimension2","authState":"dimension3","playlistId":"dimension5","testId":"dimension7","embedZone":"dimension8","gaClientId":"dimension9","tedUserId":"dimension10","playContext":"dimension11","sourceContext":"dimension12","playbackRate":"dimension13","playerMode":"dimension14","proxy":"dimension15","playToken":"dimension16","subtitleLanguage":"dimension17","playerPresentation":"dimension18"}};
+  TED.headReady = new Date();
+  TED.signOutUrl += '?referer=' + location.protocol + '//' + location.host + '/session/logout';
+  
+  TED.startTime = new Date();
+  TED.isFirstVisit = !document.cookie.match(/; _ga=/);
+  
+  TED.abby = (function () {
+    var abs=(document.cookie.match(/_abby_(\w+)=(\w+)/g) || []), dms=[], ts={}, t;
+    for (var i=-1, l=abs.length; ++i < l;) {
+      t = abs[i].match(/_abby_(\w+)=(\w+)/);
+      ts[t[1]] = t[2];
+      tstr = t[1] + ':' + t[2];
+      if (dms.indexOf(tstr) < 0) dms.push(tstr);
+    }
+    if (dms.length) {
+      __ga('set', "dimension7", dms.join(','));
+    }
+    return {tests: ts}
+  }());
+  
+  require = {"baseUrl":"https://pa.tedcdn.com/javascripts","map":{"*":{"Handlebars":"hbs/handlebars","underscore":"lodash","vendor/swfobject":"swfobject"}},"waitSeconds":0,"deps":["libs"],"paths":{"libs":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","core":"core.js?705d3ed1f0366cdc8170b678b0108917","screens/playlists":"screens/playlists.js?e5f9b7e787847721c2cbe22342df06ea","screens/tedx":"screens/tedx.js?e7632708236a892ae09bfd9edaeb1cc9","screens/dashboard_attendees":"screens/dashboard_attendees.js?c1642e420748892d6cb5def9ea0c2f0f","screens/pages":"screens/pages.js?7c6c2b79425f20b7f9a203252f89aa18","screens/dashboard_tedx":"screens/dashboard_tedx.js?b50f4cb8df9993cefbfebe3df5e122e3","screens/comments":"screens/comments.js?085f5440d8c5bab8393d293e9a804c47","screens/swatch":"screens/swatch.js?9892aafbb3810494b244456ef04499d6","screens/search":"screens/search.js?60d42a5132ec98281f50922df49ce058","screens/profiles":"screens/profiles.js?c20d907710c9dccb78fe41946bd964e1","screens/newsletter":"screens/newsletter.js?869993de06d75e114acc9cbd9656ea53","screens/topics":"screens/topics.js?927cb5240f0a699d03c3b27c31eb8f15","screens/home":"screens/home.js?6685178f25b5493514afe6e2e176ce7d","screens/global":"screens/global.js?c165320ba442d3dd8e7488db47ad38e4","screens/dashboard_hotels":"screens/dashboard_hotels.js?1902724bcbacc489ae14866b996b45ff","screens/dashboard":"screens/dashboard.js?ca678f3743ef6c5524f4276d77b98b99","screens/talk":"screens/talk.js?73498c460f0c25b5efc4332a1ab38a1e","screens/surprise_me":"screens/surprise_me.js?20904c476ecfff9eea0d388215027bf0","screens/talks":"screens/talks.js?4f0279c04bda78a0f909943a4eada966","screens/embed":"screens/embed.js?b1eb38aa690dc77ae4c4f32a03030f93","screens/settings":"screens/settings.js?f684fa9b1f12da27f947cdd6b3bb5099","screens/dashboard_sessions":"screens/dashboard_sessions.js?2f8290d8a3f00d6791f62ec4dc96cb8d","screens/abby-tests/choobo/talk":"screens/abby-tests/choobo/talk.js?052cf5976c6f157d8c379cbdff4af376","screens/pages/dynamic/dummy":"screens/pages/dynamic/dummy.js?5e1f29616653b82ef0393ef040a6f756","dq":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","jquery":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","jqueryujs":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","lodash":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","swfobject":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","react":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","react-dom":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","Backbone":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea","hbs/handlebars":"libs.js?3ed799c3d6eda1a3b17c3539edfc9aea"}};
+</script>
+<script>
+  TED.abby.overridden = false;
+  TED.abby.disabled = false;
+  TED.abby.tests.choobo = "a";
+  TED.abby.tests.sir_search_alot = "b";
+  TED["controller"]="talks";TED["zone"]={"api_key":"talk_page_2","ga_category":"videoplayer","ad_unit_path":"talk","ad_targeting":{}}
+</script>
+<script src="https://pa.tedcdn.com/javascripts/core.js?1502739391" data-main="screens/abby-tests/choobo/talk" async="async"></script></head>
+<body class='talks-body'>
+<div class='shoji' id='shoji'>
+<div class='shoji__fixtures' id='shoji-fixtures'></div>
+<div class='shoji__door'>
+<div class='page shoji__washi'>
+<noscript>
+<div class='alert alert--flash alert--warning'>
+<div class='container'>
+<div class='h9'>You have JavaScript disabled</div>
+For the best experience, please turn JavaScript on.
+<a href='http://enable-javascript.com/'>Here's how</a>
+</div>
+</div>
+</noscript>
+<script>
+  (function(d,h){
+    if (('; '+d.cookie).match(/; _uconf=0;/)) {
+      d.write(h);
+      g('uconf.init',"uconf","uconf-close");
+    }
+  }(document,"<div class='alert alert--flash alert--warning' id='uconf'>\n<div class='container'>\n<div class='alert__container'><h4 class='h10 m5'>Your account isn't active yet.</h4>Please click on the confirmation link we sent you.\nIf you don't receive the email within ten minutes, we can\n<a href='https://auth.ted.com/account/confirmation/new'>send it again</a>.\n<a class='alert__close g g-button-modal-close' href='#' id='uconf-close'>Close</a>\n</div>\n</div>\n</div>\n"))
+</script><nav class='Main-nav Main-nav--uninitialized Main-nav/Popper' id='main-nav' role='navigation'>
+<div class='Main-nav/Popper__smoke Main-nav__smoke z-i:9' id='main-nav-popper-smoke'></div>
+<div class='hide-lg fl:l d:n@lg' role='presentation'>
+<a aria-haspopup class='Main-nav__item Main-nav__label f-w:700 t-t:u undec' href='#' onclick="g('mainNav.openHamburger'); return false" role='button'><span class='if-no-svg'>Menu</span>
+<svg baseProfile="tiny" xmlns="http://www.w3.org/2000/svg" width="54" height="54" viewBox="0, 0, 512, 512" class="if-svg Main-nav__icon Main-nav__icon--hamburger"><title>Main menu</title><path d="M12 80h488v56H12V80zM12 228h488v56H12v-56zM12 376h488v56H12v-56z"/></svg></a>
+</div>
+<a class='Main-nav__home-button ga-link' data-ga-action='home' data-ga-category='navigation.item' data-ga-label='/' href='/' rel='home'>
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="54" viewBox="0, 0, 96, 54" class="Main-nav__logo"><title>TED</title><rect x="0" y="0" width="640" height="360" fill="none"/><path d="M21.244 21.053h-6.761V14.85h21.012v6.203h-6.762V39.15h-7.489V21.053zm15.414-6.203h20.43v6.203H44.147v2.992h12.941v5.837H44.147v3.065h12.941v6.203h-20.43v-24.3zm21.666 0h12.287c8.071 0 10.906 5.984 10.906 12.114 0 7.443-3.926 12.186-12.36 12.186H58.324v-24.3zm7.489 18.097h2.908c4.653 0 5.308-3.794 5.308-6.056 0-1.533-.509-5.765-5.89-5.765H65.74l.073 11.821z" fill="#E62B1E"/></svg>
+<div class='Main-nav__motto c:gray f-w:200 fl:l p-x:0 show-lg' role='presentation'><span class=''>Ideas worth spreading</span></div>
+</a>
+<div class='pos:a right:0 Main-nav__bar' role='presentation'>
+<ul class='sl fl:l show-lg' role='menubar'>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='watch' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Watch</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/talks' href='/talks'>
+<div class='f-w:700 m-b:.1'>TED Talks</div>
+<div class='c:gray'>Browse the library of TED talks and speakers</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/playlists' href='/playlists'>
+<div class='f-w:700 m-b:.1'>Playlists</div>
+<div class='c:gray'>100+ collections of TED Talks, for curious minds</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/ted-ed' href='/watch/ted-ed'>
+<div class='f-w:700 m-b:.1'>TED-Ed videos</div>
+<div class='c:gray'>Watch, share and create lessons with TED-Ed</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/watch/tedx-talks' href='/watch/tedx-talks'>
+<div class='f-w:700 m-b:.1'>TEDx Talks</div>
+<div class='c:gray'>Talks from independently organized local events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='watch' data-ga-category='navigation.item' data-ga-label='/surpriseme' href='/surpriseme'>
+<div class='f-w:700 m-b:.1'>Surprise Me</div>
+<div class='c:gray'>The easy option. Let us choose for you!</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='discover' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Discover</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/topics' href='/topics'>
+<div class='f-w:700 m-b:.1'>Topics</div>
+<div class='c:gray'>Explore TED offerings by topic</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/read/ted-books' href='/read/ted-books'>
+<div class='f-w:700 m-b:.1'>TED Books</div>
+<div class='c:gray'>Short books to feed your craving for ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='http://ideas.ted.com' href='http://ideas.ted.com'>
+<div class='f-w:700 m-b:.1'>Ideas Blog</div>
+<div class='c:gray'>Our daily coverage of the world of ideas</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='discover' data-ga-category='navigation.item' data-ga-label='/newsletter' href='/newsletter'>
+<div class='f-w:700 m-b:.1'>Newsletter</div>
+<div class='c:gray'>Inspiration delivered straight to your inbox</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='attend' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Attend</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/conferences' href='/attend/conferences'>
+<div class='f-w:700 m-b:.1'>Conferences</div>
+<div class='c:gray'>Take part in our events: TED, TEDGlobal and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/tedx/events' href='/tedx/events'>
+<div class='f-w:700 m-b:.1'>TEDx events</div>
+<div class='c:gray'>Find and attend local, independently organized events</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='attend' data-ga-category='navigation.item' data-ga-label='/attend/ted-on-screen' href='/attend/ted-on-screen'>
+<div class='f-w:700 m-b:.1'>TED on screen</div>
+<div class='c:gray'>Experience TED from home or in theaters</div>
+</a>
+</li>
+</ul>
+</li>
+<li class='pos:r fl:l z-i:10 Main-nav__category' data-popper-name='participate' data-popper-root role='presentation'>
+<a aria-haspopup class='Main-nav__category__label Main-nav__item Main-nav__label f-w:700 t-t:u undec' data-popper-target href='#' onclick='return false' role='menuitem'>Participate</a>
+<ul aria-hidden class='Main-nav/Popper__popup Main-nav__category__list popup popup--inverse popup--tailed popup--tailed--center popup--tailed--top sl' role='menu'>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/nominate' href='/participate/nominate'>
+<div class='f-w:700 m-b:.1'>Nominate</div>
+<div class='c:gray'>Recommend speakers, TED Prize recipients, Fellows and more</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/organize-a-local-tedx-event' href='/participate/organize-a-local-tedx-event'>
+<div class='f-w:700 m-b:.1'>Organize a local TEDx event</div>
+<div class='c:gray'>Rules and resources to help you plan a local TEDx event</div>
+</a>
+</li>
+<li role='menuitem'>
+<a class='d:b hover/bg:gray-ll Main-nav__fs-1 p-x:4 p-y:.8 undec ga-link' data-ga-action='participate' data-ga-category='navigation.item' data-ga-label='/participate/translate' href='/participate/translate'>
+<div class='f-w:700 m-b:.1'>Translate</div>
+<div class='c:gray'>Bring TED to the non-English speaking world</div>
+</a>
+</li>
+<li role='menuitem
